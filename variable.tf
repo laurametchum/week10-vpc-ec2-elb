@@ -1,9 +1,9 @@
-variable "ENVIRONMENT" {
+#variable "ENVIRONMENT" {
   
-}
-variable "REGION" {
+#}
+#variable "REGION" {
   
-}
-variable "INSTANCE_TYPE" {
+#}
+#variable "INSTANCE_TYPE" {
   
-}
+#}
